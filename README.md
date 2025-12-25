@@ -57,7 +57,8 @@
 | **Pegue** | A full-stack web application for managing and interacting with structured data through a clean, user-focused interface. | Demonstrates end-to-end product thinking: backend architecture, frontend UX, authentication, and real-world business workflows. | Laravel, Vue, MySQL, Tailwind | [Repo](#) · [Live Demo](#) |
 | **Chiclay GPT** | A production-ready AI-powered web app that exposes GPT functionality through a custom UI and API layer. | Shows practical GenAI integration, prompt handling, API design, and deployment of AI features in a real application. | Laravel, OpenAI API, Vue, Redis | [Repo](#) · [Live Demo](#) |
 | **Quixotify** | A reusable PHP package published on Packagist for shared application functionality. | Demonstrates public OSS experience: Composer distribution, semantic versioning, API design, and documentation for external users. | PHP, Composer | [Packagist](#) · [Repo](#) |
-| **Somewhat** | An internal cybersecurity-focused PHP package used to standardize and harden security behavior across services. | Illustrates secure-by-default design, internal platform tooling, and the deliberate choice to keep security-sensitive libraries private. | JavaScript | [Repo](#) |
+| **Somewhat** | Internal JavaScript utility for detecting leaked credentials and secrets across objects, DOMs, and documents. | Shows practical security tooling, exposure detection patterns, and responsible internal-only distribution. | JavaScript | Internal |
+
 
 ---
 
