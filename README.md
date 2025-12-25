@@ -53,13 +53,13 @@
 
 Here are some of my favorite public creations:
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **Pegue** | AI-powered citation & reference manager | Laravel, OpenAI, Vue | [pegue.at.chiclay.com](https://pegue.at.chiclay.com) |
-| **Chiclay GPT** | Clean, customizable OpenAI chat interface | React / Laravel | [gpt.at.chiclay.com](https://gpt.at.chiclay.com) |
-| **Somewhat** | Recursive wildcard search in JS window object | JavaScript | [github.com/JustinLawrenceMS/somewhat](https://github.com/JustinLawrenceMS/somewhat) |
-| **Quixotify** | Lorem ipsum generator using Don Quixote text | PHP | [github.com/JustinLawrenceMS/quixotify](https://github.com/JustinLawrenceMS/quixotify) |
-| **PHP Linter** | Recursive PHP native linter with formatting | PHP | [github.com/JustinLawrenceMS/php-linter](https://github.com/JustinLawrenceMS/php-linter) |
+| Project          | Description                                                                 | Tech                  | Link                                                                 |
+|------------------|-----------------------------------------------------------------------------|-----------------------|----------------------------------------------------------------------|
+| **Pegue**        | AI-powered citation & reference manager                                     | Laravel, OpenAI, Vue  | [github.com/JustinLawrenceMS/pegue.at.chiclay.com](https://github.com/JustinLawrenceMS/pegue.at.chiclay.com) |
+| **Chiclay GPT**  | Clean, customizable OpenAI chat interface (Vue frontend + backend)         | Vue / Laravel         | [github.com/JustinLawrenceMS/gpt.at.chiclay.com](https://github.com/JustinLawrenceMS/gpt.at.chiclay.com) |
+| **Somewhat**     | Recursive wildcard search in JS window object                               | JavaScript            | [github.com/JustinLawrenceMS/somewhat](https://github.com/JustinLawrenceMS/somewhat) |
+| **Quixotify**    | Lorem ipsum generator using Don Quixote text                                | PHP                   | [github.com/JustinLawrenceMS/quixotify](https://github.com/JustinLawrenceMS/quixotify) |
+| **PHP Linter**   | Recursive PHP native linter with formatting                                 | PHP                   | [github.com/JustinLawrenceMS/php-linter](https://github.com/JustinLawrenceMS/php-linter) |
 
 More projects → [github.com/JustinLawrenceMS?tab=repositories](https://github.com/JustinLawrenceMS?tab=repositories)
 
