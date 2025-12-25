@@ -49,19 +49,53 @@
 
 ---
 
-### 🚀 Featured Projects
+| Project | What It Is | Why It Matters | Tech | Links |
+|------|-----------|---------------|------|-------|
+| **Pegue** | A full-stack web application for managing and interacting with structured data through a clean, user-focused interface. | Demonstrates end-to-end product thinking: backend design, frontend UX, authentication, and real-world workflows. | Laravel, Vue, MySQL, Tailwind | [Repo](#) · [Live Demo](#) |
+| **Chiclay GPT** | A production-ready AI-powered web app that exposes GPT functionality through a custom UI and API layer. | Shows practical GenAI integration, prompt handling, API design, and deployment of AI features in a real app. | Laravel, OpenAI API, Vue, Redis | [Repo](#) · [Live Demo](#) |
+| **Quixotify** | A reusable PHP package published on Packagist for shared application functionality. | Public OSS experience: versioning, Composer distribution, API design, and documentation for external users. | PHP, Composer | [Packagist](#) · [Repo](#) |
+| **Somewhat** | An internal shared utility package used across multiple services. | Illustrates internal platform tooling, consistency enforcement, and developer-experience focused abstractions. | PHP | [Repo](#) |
 
-Here are some of my favorite public creations:
+---
 
-| Project          | Description                                                                 | Tech                  | Link                                                                 |
-|------------------|-----------------------------------------------------------------------------|-----------------------|----------------------------------------------------------------------|
-| **Pegue**        | AI-powered citation & reference manager                                     | Laravel, OpenAI, Vue  | [github.com/JustinLawrenceMS/pegue.at.chiclay.com](https://github.com/JustinLawrenceMS/pegue.at.chiclay.com) |
-| **Chiclay GPT**  | Clean, customizable OpenAI chat interface (Vue frontend + backend)         | Vue / Laravel         | [github.com/JustinLawrenceMS/gpt.at.chiclay.com](https://github.com/JustinLawrenceMS/gpt.at.chiclay.com) |
-| **Somewhat**     | Recursive wildcard search in JS window object                               | JavaScript            | [github.com/JustinLawrenceMS/somewhat](https://github.com/JustinLawrenceMS/somewhat) |
-| **Quixotify**    | Lorem ipsum generator using Don Quixote text                                | PHP                   | [github.com/JustinLawrenceMS/quixotify](https://github.com/JustinLawrenceMS/quixotify) |
-| **PHP Linter**   | Recursive PHP native linter with formatting                                 | PHP                   | [github.com/JustinLawrenceMS/php-linter](https://github.com/JustinLawrenceMS/php-linter) |
+## 📸 Project Previews
 
-More projects → [github.com/JustinLawrenceMS?tab=repositories](https://github.com/JustinLawrenceMS?tab=repositories)
+### Pegue
+> _Full-stack application showcasing data management, workflows, and UI design._
+
+```text
+[ Screenshot Placeholder ]
+- Dashboard overview
+- Primary workflow screen
+- Example form / interaction
+```
+
+<!-- TODO: Replace with real screenshots or GIFs -->
+<!-- ![Pegue Dashboard](path/to/screenshot.png) -->
+
+---
+
+### Chiclay GPT
+> _AI-powered application integrating GPT into a custom production interface._
+
+```text
+[ Screenshot Placeholder ]
+- Chat interface
+- Prompt / response flow
+- Configuration or admin view
+```
+
+<!-- TODO: Replace with real screenshots or GIFs -->
+<!-- ![Chiclay GPT Interface](path/to/screenshot.png) -->
+
+---
+
+## 🧱 Internal vs Public Work
+
+- **Public / OSS:** Pegue, Chiclay GPT, Quixotify  
+- **Internal / Infrastructure:** Somewhat  
+
+> Internal packages are real-world tooling used across services and are documented for clarity rather than public adoption.
 
 ---
 
