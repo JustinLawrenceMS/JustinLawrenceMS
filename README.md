@@ -50,11 +50,14 @@
 ---
 
 | Project | What It Is | Why It Matters | Tech | Links |
+## 🚀 Featured Projects
+
+| Project | What It Is | Why It Matters | Tech | Links |
 |------|-----------|---------------|------|-------|
-| **Pegue** | A full-stack web application for managing and interacting with structured data through a clean, user-focused interface. | Demonstrates end-to-end product thinking: backend design, frontend UX, authentication, and real-world workflows. | Laravel, Vue, MySQL, Tailwind | [Repo](#) · [Live Demo](#) |
-| **Chiclay GPT** | A production-ready AI-powered web app that exposes GPT functionality through a custom UI and API layer. | Shows practical GenAI integration, prompt handling, API design, and deployment of AI features in a real app. | Laravel, OpenAI API, Vue, Redis | [Repo](#) · [Live Demo](#) |
-| **Quixotify** | A reusable PHP package published on Packagist for shared application functionality. | Public OSS experience: versioning, Composer distribution, API design, and documentation for external users. | PHP, Composer | [Packagist](#) · [Repo](#) |
-| **Somewhat** | An internal shared utility package used across multiple services. | Illustrates internal platform tooling, consistency enforcement, and developer-experience focused abstractions. | PHP | [Repo](#) |
+| **Pegue** | A full-stack web application for managing and interacting with structured data through a clean, user-focused interface. | Demonstrates end-to-end product thinking: backend architecture, frontend UX, authentication, and real-world business workflows. | Laravel, Vue, MySQL, Tailwind | [Repo](#) · [Live Demo](#) |
+| **Chiclay GPT** | A production-ready AI-powered web app that exposes GPT functionality through a custom UI and API layer. | Shows practical GenAI integration, prompt handling, API design, and deployment of AI features in a real application. | Laravel, OpenAI API, Vue, Redis | [Repo](#) · [Live Demo](#) |
+| **Quixotify** | A reusable PHP package published on Packagist for shared application functionality. | Demonstrates public OSS experience: Composer distribution, semantic versioning, API design, and documentation for external users. | PHP, Composer | [Packagist](#) · [Repo](#) |
+| **Somewhat** | An internal cybersecurity-focused PHP package used to standardize and harden security behavior across services. | Illustrates secure-by-default design, internal platform tooling, and the deliberate choice to keep security-sensitive libraries private. | PHP | [Repo](#) |
 
 ---
 
@@ -65,9 +68,9 @@
 
 ```text
 [ Screenshot Placeholder ]
-- Dashboard overview
-- Primary workflow screen
-- Example form / interaction
+- Main dashboard overview
+- Core user workflow screen
+- Example form or data interaction
 ```
 
 <!-- TODO: Replace with real screenshots or GIFs -->
@@ -80,8 +83,8 @@
 
 ```text
 [ Screenshot Placeholder ]
-- Chat interface
-- Prompt / response flow
+- Chat or prompt interface
+- Prompt → response flow
 - Configuration or admin view
 ```
 
@@ -90,12 +93,12 @@
 
 ---
 
-## 🧱 Internal vs Public Work
+## 🧱 Public vs Internal Work
 
 - **Public / OSS:** Pegue, Chiclay GPT, Quixotify  
-- **Internal / Infrastructure:** Somewhat  
+- **Internal / Security & Infrastructure:** Somewhat  
 
-> Internal packages are real-world tooling used across services and are documented for clarity rather than public adoption.
+> Somewhat is intentionally unpublished due to its cybersecurity scope and is maintained as an internal dependency to reduce attack surface and control distribution.
 
 ---
 
