@@ -65,19 +65,6 @@ More projects → [github.com/JustinLawrenceMS?tab=repositories](https://github.
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinLawrenceMS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinLawrenceMS&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLawrenceMS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
----
-
 ### 🌱 Currently Exploring
 
 - Advanced **Generative AI** integrations with Laravel & OpenAI  
