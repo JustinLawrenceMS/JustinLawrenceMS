@@ -7,7 +7,7 @@
 <h2 align="center">👋 Hi, I'm Justin Lawrence</h2>
 
 <p align="center">
-  <strong>MS in Information Science</strong> • Full-Stack Engineer • Remote-friendly • Austin, TX
+  <strong>MS in Information Science</strong> • Full-Stack Engineer • Remote-friendly • Brownsville, TX
 </p>
 
 <p align="center">
